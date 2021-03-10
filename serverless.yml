@@ -32,7 +32,7 @@ plugins:
 #    - exclude-me.js
 #    - exclude-me-dir/**
 
-# 免费用户执行时长不得超过900秒
+# 免费用户执行时长不得超过900秒*
 
 functions:
   task1:
